@@ -14,6 +14,7 @@
     ],
     "host": "18.141.180.79",
     "basePath": "/api",
+    "schemes": "http",
     "paths": {
         "/mentors": {
             "get": {
