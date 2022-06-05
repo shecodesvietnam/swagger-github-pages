@@ -13,7 +13,7 @@
         "multipart/form-data"
     ],
     "server": {
-        "url": "https://18.141.180.79/api"
+        "url": "http://18.141.180.79/api"
     },
     "paths": {
         "/mentors": {
