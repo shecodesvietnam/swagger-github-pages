@@ -12,7 +12,7 @@
         "application/json",
         "multipart/form-data"
     ],
-    "host": "localhost:8080",
+    "host": "18.141.180.79",
     "basePath": "/api",
     "paths": {
         "/mentors": {
