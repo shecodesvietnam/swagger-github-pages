@@ -12,9 +12,9 @@
         "application/json",
         "multipart/form-data"
     ],
-    "server": {
-        "url": "http://18.141.180.79/api"
-    },
+    "schemes": "http",
+    "host": "18.141.180.79",
+    "basePath": "/api",
     "paths": {
         "/mentors": {
             "get": {
